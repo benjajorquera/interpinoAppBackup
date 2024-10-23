@@ -1,0 +1,19 @@
+// body::-webkit-scrollbar {
+//     display: none;
+// }
+
+// body {
+//     -webkit-app-region: drag;
+// }
+
+.custom-table {
+
+    .v-data-table {
+        height: 70vh;
+    }
+    
+    .v-data-table__wrapper {
+        height: 100%;
+        overflow-y: scroll !important;
+    }
+}
