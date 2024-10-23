@@ -24,6 +24,8 @@ Generate detailed reports in `.xlsx` format, including all interconsultations wi
 
 ## Installation
 
+Please review the handbook in the docs folder for the correct functioning of the app.
+
 ### Project setup
 
 ```
